@@ -28,7 +28,8 @@ My work sits at the intersection of wet-lab biology and computational science, w
 - pathogen genomics  
 - antimicrobial resistance (AMR)  
 - genomic surveillance systems  
-- bioinformatics pipeline development  
+- bioinformatics pipeline development
+- algorithms & machine learning
 
 ---
 
@@ -45,20 +46,23 @@ My work sits at the intersection of wet-lab biology and computational science, w
 
 ### languages
 - Python  
-- R (Data cleaning, analysis/Bioconductor)  
+- R (R studio- Data cleaning, analysis/Bioconductor)  
 - Bash / Linux  
 
 ### bioinformatics
-- genome assembly and annotation  
-- AMR gene detection (Abricate, CARD, ResFinder)  
-- phylogenetics and sequence analysis  
-- biological databases (NCBI, ENA, SRA)  
+- Linux & HPC
+- Genomics (SPAdes, Canu, Maker)
+- Functional genomics  (RNA-seq, ChIP-seq)
+- Git, Github & Containerisation
+- Sequence analysis (Python)
+- Biological databases & Ontology
+- Evolution & Phylogenetics
 
 ### systems
-- HPC (PBS job scheduling)  
+- Linux and HPC (PBS job scheduling)  
 - Git & GitHub  
 - workflow design  
-- Docker (in progress)  
+- Docker
 
 ---
 
