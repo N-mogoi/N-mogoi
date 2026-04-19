@@ -78,11 +78,12 @@ I focus on building bioinformatics pipelines and data systems that elicit Africa
 
 ---
 
-## How to reach me
+## How to reach and engage me
 
 - Email: mogoinn67@gmail.com  
 - GitHub: https://github.com/N-mogoi  
-- LinkedIn: www.linkedin.com/in/nick-mogoi-2023b2173  
+- LinkedIn: www.linkedin.com/in/nick-mogoi-2023b2173
+- Linktree: https://linktr.ee/nick_mogoin
 
 ---
 
