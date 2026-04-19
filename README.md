@@ -45,7 +45,7 @@ My work sits at the intersection of wet-lab biology and computational science, w
 
 ### languages
 - Python  
-- R (Bioconductor)  
+- R (Data cleaning, analysis/Bioconductor)  
 - Bash / Linux  
 
 ### bioinformatics
@@ -72,7 +72,7 @@ My work sits at the intersection of wet-lab biology and computational science, w
 
 ## My Philosophy
 
-Africa does not lack pathogens — it lacks a coordinated system that transforms its vast and underutilised genomic data into a key to help alleviate the imapct of ifnectius diseases on the continent and at the global scale. 
+Africa does not lack pathogens — it lacks a coordinated system that transforms its vast and underutilised genomic data into a key to help alleviate the impact of infectious diseases on the continent and at the global scale. 
 
 I focus on building bioinformatics pipelines and data systems that elicit African genomic data to their true value — uncovering the hidden “nugget” within these datasets and enabling AMR surveillance, and research across the continent.
 
@@ -89,7 +89,7 @@ I focus on building bioinformatics pipelines and data systems that elicit Africa
 
 ## Vision
 
-To contribute to a future where Africa leads in genomic data science — not only generating data, but extracting its full biological, clinical, and epidemiological value.
+To contribute to a future where Africa leads in genomic data science — not only generating data, but also extracting its full biological, clinical, and epidemiological value.
 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
