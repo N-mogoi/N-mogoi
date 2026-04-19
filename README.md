@@ -3,7 +3,7 @@
 ---
 I am a molecular microbiologist and emerging bioinformatician specialising in antimicrobial resistance (AMR) and pathogen genomics, currently an African STARS Fellow at CERI, Stellenbosch University.
 
-My work sits at the intersection of wet-lab biology and computational science, where I look to design and implement scalable bioinformatics pipelines for sequencing data, pathogen surveillance, and genomic epidemiology it its entirety.
+My work sits at the intersection of wet-lab biology and computational science, where I look to design and implement scalable bioinformatics pipelines for sequencing data, pathogen surveillance, and genomic epidemiology in its entirety.
 
 ---
 
