@@ -53,13 +53,14 @@ My work sits at the intersection of wet-lab biology and computational science, w
 - Linux & HPC
 - Genomics (SPAdes, Canu, Maker)
 - Functional genomics  (RNA-seq, ChIP-seq)
-- Git, Github & Containerisation
-- Sequence analysis (Python)
+- Git, Github & Containerisation, Docker
+- Sequence analysis (HMM, pHMM, Gibbs sampling)
 - Biological databases & Ontology
-- Evolution & Phylogenetics
+- Phylogenetics, GWAS, Admixture
+- SQL, DBMS
 
 ### systems
-- Linux and HPC (PBS job scheduling)  
+- Linux and HPC  
 - Git & GitHub  
 - workflow design  
 - Docker
